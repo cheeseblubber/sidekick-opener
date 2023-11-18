@@ -2,6 +2,7 @@
   "name": "sidekick-opener",
   "displayName": "Sidekick Opener",
   "description": "Opens files in the correct panel based on file name regex",
+  "repository": "https://github.com/cheeseblubber/sidekick-opener",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
